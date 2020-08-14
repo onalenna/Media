@@ -65,6 +65,7 @@
             <a href="#" class="list-group-item list-group-item-action list-group-item-warning">DOWNOADS &nbsp;<span class="glyphicon glyphicon-download-alt"></span></a>
             <a href="#" class="list-group-item list-group-item-action list-group-item-danger">SETTINGS &nbsp;<span class="glyphicon glyphicon-cog"></span></a>
              <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Feature my work &nbsp;<span class="glyphicon glyphicon-bo"></span></a>
+             <a href="#" class="list-group-item list-group-item-action list-group-item-danger"></a>
           </div>
 
             </div>
